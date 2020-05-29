@@ -55,7 +55,7 @@ void printMenu();
 
 int main()
 {
-	printf("-----------------[Software department] [2019038032] [Jinseo Lee]-----------------\n");
+	printf("-----------------[Software department] [2019038032] [Jinseo Lee]-----------------");
 	char command;
 	int key;
 	Node* head = NULL;
