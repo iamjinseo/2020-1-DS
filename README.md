@@ -1,5 +1,2 @@
-# Tutorial-Chungbuk
-for the tutorial
-
-#include <stdio.h>
-int main(){ prinf("hello github\n"); }
+# 자료구조
+충북대학교 소프트웨어학과 자료구조 2020-1
